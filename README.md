@@ -2,13 +2,13 @@
 
 Este proyecto es para crear un camino para mi y los que lean todo esto al camino de un desarrollador full-Stack.
 
----
+<!-----
 
 ## 📸 Captura de Pantalla
 
 ![Captura del proyecto](ruta/a/la/imagen.png)
 
----
+----->
 
 ## 🧠 Características
 
