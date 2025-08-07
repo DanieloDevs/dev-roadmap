@@ -32,8 +32,6 @@ El repositorio está organizado por semanas. Cada carpeta contiene:
 
 ## 📅 Roadmap semanal
 
-Consulta el [plan completo por semanas](#) *(lo puedes enlazar a un archivo markdown separado si gustas)*
-
 ## 🚀 Estado actual
 
 | Semana | Tema principal                        | Estado  |
